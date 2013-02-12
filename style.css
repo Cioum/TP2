@@ -1,3 +1,7 @@
+h1 { color:white;}  /* modif */
+
+
+
 #container
 {
 	margin: 0 30px;
@@ -6,7 +10,7 @@
 
 #header
 {
-	background: #ccc;
+	background: #003b6f; /* modif */
 	padding: 20px;
 }
 
@@ -36,7 +40,7 @@
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: red;
+	color: red;                   /* modif */
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
@@ -62,7 +66,7 @@
 
 #edito h2
 {
-	color: grey;
+	color: grey;      /* modif */
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -88,7 +92,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #003b6f; /* modif */
 	text-align: right;
 	padding: 20px;
 	height: 1%;
